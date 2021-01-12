@@ -11,7 +11,7 @@
 
 ## Táblák adatai:
 
-1. Tabella 
+1. **Tabella** 
    - **Csapatnév** 
      - Elsődleges kulcs
    - Helyezés
@@ -22,15 +22,16 @@
      - a Helyezés csak 1 és 12 között lehet
 	 - az Elért Pontok maximum 99 lehet
 
-2. Csapatok
+2. **Csapatok**
    - **Csapatnév**
 	 - Elsődleges kulcs
    - Költségvetés
    - Város
    - Várt Helyezés
-   - Megszorítás : a Várt Helyezés csak 1 és 12 között lehet
+   - Megszorítás : 
+     - a Várt Helyezés csak 1 és 12 között lehet
    
-3. Góllövőlista
+3. **Góllövőlista**
    - **Játékos Név**
 	 - Elsődleges kulcs
    - Gólok
@@ -45,11 +46,13 @@
 - 2NF, a kulcs halmaz egy elemű 
 - 3NF, csak kulcsfüggőség van így teljesül 
 - BCNF, is teljesül
+</br>
 **Csapatok**(CsapatNev , Koltsegvetes , Város, VártHelyezés)
 - 1NF, mivel nincs benne összetett attribútum 
 - 2NF, a kulcs halmaz egy elemű 
 - 3NF, csak kulcsfüggőség van így teljesül 
 - BCNF, is teljesül
+</br>
 **Góllövő lista**(Játékos Név  , Aszisztok , Gólok, CsapatNev)
 - 1NF, mivel nincs benne összetett attribútum 
 - 2NF, a kulcs halmaz egy elemű 
