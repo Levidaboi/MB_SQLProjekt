@@ -1,6 +1,6 @@
-## Alprogramok és triggerek
+# Alprogramok és triggerek
 
-# Alprogramok
+## Alprogramok
 
 1. Egy procedúra , amely bemenete egy játékos neve , kimenete pedig a játékos által rúgott gólok száma a szezonban : 
    - create or replace procedure **GollovoJatekos**(nev  varchar) is  </br> **golszam** number; </br>
