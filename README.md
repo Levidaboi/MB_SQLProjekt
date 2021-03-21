@@ -34,10 +34,12 @@ A projektben az RBAC elvet követve teljesen elkülönülő jogosultsági szinte
 ## Használt technológiák
 <br/>
 - Backend : ASP.Net <br/>
+
 - Frontend : REACT <br/>
-      * a ma használt egyik legelterjedtebb web-depelopment tool ,illetve komponens alapúsága miatt jó lehetőség számunkra , hogy jobban megismerjük a projekt alatt <br/>
- -Adatbázis : AZURE <br/>
-      * az Óbudai Egyetem diékjaiként ingyenes regisztrációhoz van hozzáférésünk  , így ez tűnt a legpraktikusabb megoldásnak
+  * a ma használt egyik legelterjedtebb web-depelopment tool ,illetve komponens alapúsága miatt jó lehetőség számunkra , hogy jobban megismerjük a projekt alatt <br/>
+      
+- Adatbázis : AZURE <br/>
+  * az Óbudai Egyetem diékjaiként ingyenes regisztrációhoz van hozzáférésünk  , így ez tűnt a legpraktikusabb megoldásnak
 
 ## Csoport beosztás
 <br/>
