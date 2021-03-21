@@ -21,13 +21,13 @@ A csoportokba képeket tudunk feltölteni , illteve az egyes képekhez hozzász�
 <br/>
 
 A projektben az RBAC elvet követve teljesen elkülönülő jogosultsági szinteket használunk   <br/>
-1. **User** 
-   - Általános felhasználó , regisztráció után az egyes csoportokba képes jelentkezni , majd ha ez elfogadásra került , a megtekintheti a csoportba feltöltött képeket , feltöltheti a sajátjait  és hozzászólásokat írhat hozzájuk.Ha már nem kíván egy csoport tagja lenni , kiléphet onnan. <br/>
-  
-    2.**Group Admin** 
-   - A csoportok moderálásért felel , a jelentkezéseket képes elfogadni , illetve elutasítani.Egy group-admin csak egy csoport jelenkezéseiért felelős. <br/>
+
+1. **User**
+- Általános felhasználó , regisztráció után az egyes csoportokba képes jelentkezni , majd ha ez elfogadásra került , a megtekintheti a csoportba feltöltött képeket , feltöltheti a sajátjait  és hozzászólásokat írhat hozzájuk.Ha már nem kíván egy csoport tagja lenni , kiléphet onnan.
+2. **Group Admin**
+- A csoportok moderálásért felel , a jelentkezéseket képes elfogadni , illetve elutasítani.Egy group-admin csak egy csoport jelenkezéseiért felelős. 
 3. **Admin**
-   - A csoportokat képes létrehozni és törölni
+- A csoportokat képes létrehozni és törölni
 <br/>
 <br/>
 
