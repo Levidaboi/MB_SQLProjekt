@@ -45,7 +45,7 @@ A projektben az RBAC elvet követve teljesen elkülönülő jogosultsági szinte
 <br/>
 
 
- - Backend : Gadácsi  Ákos és Hegedűs Máté <br/>
+ - Backend : **Gadácsi  Ákos** és Hegedűs Máté <br/>
 
 - Frontend : Schäffer Tamás <br/>
 
