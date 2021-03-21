@@ -33,7 +33,9 @@ A projektben az RBAC elvet követve teljesen elkülönülő jogosultsági szinte
 
 ## Használt technológiák
 <br/>
-- Backend : ASP.Net <br/>
+
+
+ - Backend : **ASP.Net** <br/>
 
 - Frontend : REACT <br/>
   * a ma használt egyik legelterjedtebb web-depelopment tool ,illetve komponens alapúsága miatt jó lehetőség számunkra , hogy jobban megismerjük a projekt alatt <br/>
