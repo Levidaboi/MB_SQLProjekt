@@ -41,6 +41,6 @@ A projektben az RBAC elvet követve teljesen elkülönülő jogosultsági szinte
 
 ## Csoport beosztás
 <br/>
-- Backend : *Gadácsi*  **Ákos** és **Hegedűs Máté** <br/>
-- Frontend : **Schäffer Tamás** <br/>
-- Csoport menedzser : **Veres Levente** <br/>
+- Backend : Gadácsi  Ákos és Hegedűs Máté 
+- Frontend : Schäffer Tamás
+- Csoport menedzser : Veres Levente
